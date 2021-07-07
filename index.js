@@ -55,7 +55,7 @@ function init() {
             },
             {
                 type: 'input',
-                name: 'instsallation',
+                name: 'installation',
                 message: questions[5],
             },
             {
@@ -64,7 +64,7 @@ function init() {
                 message: questions[6],
             },
             {
-                type: 'input',
+                type: 'list',
                 name: 'license',
                 message: questions[7],
                 choices: ['MIT', 'Apache-2.0', 'GPL-3.0', 'BSD-2-Clause', 'BSD-3-Clause', 'none'],
