@@ -25,7 +25,8 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    console.log("Hello world!")
+    console.log("Hello world!");
+    console.log("This program will ask you some questions to generate a ReadMe.md file based on a project you have worked on using Git. Ready? Let's begin.");
     inquirer
         .prompt([
             {
