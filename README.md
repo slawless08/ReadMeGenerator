@@ -5,6 +5,8 @@
   ## Description
   The application will generate a professional ReadME markdown file based on provided questions. It will include things like a description, table of contents, installation, usage, etc.
 
+![Screenshot of using the application](example.PNG)
+
   ## Table of Contents
   1. [Installation](#installation)
   2. [Usage](#usage)
